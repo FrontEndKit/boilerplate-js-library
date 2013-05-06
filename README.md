@@ -2,10 +2,7 @@
 Main description
 
 ## Getting Started
-Usually, all my public repos are published on [GitHub][github-repo]
-and mirrored on [BitBucket][bitbucket-repo].
-
-For developing purposes only I suggest to use [bower][bower-link]
+For developing purposes only, I suggest to use [bower][bower-link]
 which will locally install this library as component in your project.
 Instead, if you want to customize and/or recompile the library, it's
 possibile to fork the repo and clone it locally on your computer.
@@ -26,18 +23,6 @@ grunt -h
 ## Documentation
 Brief description of library purposes
 
-Further details can be found into the documentation (currently not
-provided online), which can be generated with:
-```bash
-grunt documenting
-```
-or
-```bash
-grunt jsdoc
-```
-Once the documentation is ready, you can navigate with your browser to
-`./doc/index.html`.
-
 ## Usage
 Instructions and example about how to implement it into a project
 
@@ -54,5 +39,4 @@ Read the CHANGELOG.md file distributed with the project.
 Read the LICENSE-MIT file distributed with the project.
 
 [github-repo]: https://github.com/Ragnarokkr
-[bitbucket-repo]: http://git.marcotrulla.it
 [bower-link]: http://twitter.github.com/bower/

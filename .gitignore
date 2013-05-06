@@ -1,5 +1,4 @@
-### Node
-
+# Node
 lib-cov
 *.seed
 *.log
@@ -16,9 +15,9 @@ results
 npm-debug.log
 node_modules
 
-### SublimeText
-
 # SublimeText project files
+*.sublime-project
 *.sublime-workspace
 
-
+# Build time locals
+md
